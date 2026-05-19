@@ -1,0 +1,1 @@
+This is newFile2.txt created inside the branch2
